@@ -1,7 +1,6 @@
 # REPORolesPlus
 
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <a href="https://thunderstore.io/c/repo/p/Piskotryasi/REPORolesPLUS/">
     <img src="icon.png" alt="Logo" width="128" height="128">
@@ -10,10 +9,10 @@
   <h3 align="center">REPORolesPlus</h3>
 
   <p align="center">
-    <samp>Modification </samp><a href="https://thunderstore.io/c/repo/p/Piskotryasi/REPORolesPLUS/"><strong>REPO Roles Plus</strong></a><samp>based on </samp><a href="https://thunderstore.io/c/repo/p/BobisMods/REPORoles/"><strong>R.E.P.O. Roles</strong></a>
-    <br />
+    <samp>Modification </samp><a href="https://thunderstore.io/c/repo/p/Piskotryasi/REPORolesPLUS/"><strong> REPO Roles Plus</strong></a><samp> based on </samp><a href="https://thunderstore.io/c/repo/p/BobisMods/REPORoles/"><strong>R.E.P.O. Roles</strong></a>
   </p>
 </p>
+
 ### Descrtiption
 This mod is just an addition to the existing REPO Roles, but with more content.
 There are 6 roles in this mod: Tank, Runner, Gambler (7 subroles), Strongman, Ranged Looter, Athlete, Loser. 
@@ -26,9 +25,6 @@ Ranged Looter: reaches objects from afar.
 Athlete: Runs fast and jumps high.
 Normal: Literally nothing. It's better than getting a debuff :)
 
-<br/>
-<br/>
-<br/>
 ### Credits
 Credits to [BobisMods](https://thunderstore.io/c/repo/p/BobisMods/REPORoles/) - Original author of R.E.P.O. Roles.
 <!-- LICENSE -->
