@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://thunderstore.io/c/repo/p/Piskotryasi/REPORolesPLUS/">
-    <img src="objection.png" alt="Logo" width="256" height="256">
+    <img src="icon.png" alt="Logo" width="128" height="128">
   </a>
 
   <h3 align="center">REPORolesPlus</h3>
